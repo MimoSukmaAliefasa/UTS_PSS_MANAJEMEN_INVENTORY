@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  postgres:
+    container_name: projects-manajemen-inventory
+    image: postgres:latest
+    volumes:
+      - postgres_volume:/var/lib/postgresql/data 
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: postgres  
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: database_development 
+    networks:
+      - app-network
+
+volumes:
+  postgres_volume: 
+
+networks:
+  app-network:
+    driver: bridge 

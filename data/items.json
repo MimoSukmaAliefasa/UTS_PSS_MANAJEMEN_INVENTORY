@@ -1,0 +1,192 @@
+[
+    {
+      "name": "TV LED 32 Inch",
+      "description": "TV layar datar dengan resolusi HD",
+      "price": 2500000,
+      "quantity": 10,
+      "category_id": 1,
+      "supplier_id": 1,
+      "created_by": 1
+    },
+    {
+      "name": "Smartphone Android 6GB RAM",
+      "description": "Smartphone dengan 6GB RAM dan kamera 48MP",
+      "price": 5000000,
+      "quantity": 20,
+      "category_id": 1,
+      "supplier_id": 1,
+      "created_by": 1
+    },
+    {
+      "name": "Laptop Gaming ROG",
+      "description": "Laptop gaming dengan kartu grafis RTX 3070",
+      "price": 15000000,
+      "quantity": 5,
+      "category_id": 1,
+      "supplier_id": 1,
+      "created_by": 2
+    },
+    {
+      "name": "Pensil 2B",
+      "description": "Pensil 2B berkualitas tinggi untuk menulis dan menggambar",
+      "price": 1000,
+      "quantity": 500,
+      "category_id": 2,
+      "supplier_id": 2,
+      "created_by": 2
+    },
+    {
+      "name": "Penghapus Plastik",
+      "description": "Penghapus plastik untuk semua jenis pensil",
+      "price": 500,
+      "quantity": 300,
+      "category_id": 2,
+      "supplier_id": 2,
+      "created_by": 1
+    },
+    {
+      "name": "Kaos Pria Cotton",
+      "description": "Kaos pria berbahan katun premium, nyaman dipakai",
+      "price": 150000,
+      "quantity": 50,
+      "category_id": 3,
+      "supplier_id": 2,
+      "created_by": 1
+    },
+    {
+      "name": "Jaket Hoodie Wanita",
+      "description": "Jaket hoodie wanita dengan bahan fleece hangat",
+      "price": 250000,
+      "quantity": 30,
+      "category_id": 3,
+      "supplier_id": 2,
+      "created_by": 2
+    },
+    {
+      "name": "Susu UHT Full Cream",
+      "description": "Susu UHT full cream dengan kandungan gizi tinggi",
+      "price": 15000,
+      "quantity": 100,
+      "category_id": 4,
+      "supplier_id": 3,
+      "created_by": 1
+    },
+    {
+      "name": "Mie Instan Goreng",
+      "description": "Mie instan goreng, siap saji dalam 3 menit",
+      "price": 3000,
+      "quantity": 200,
+      "category_id": 4,
+      "supplier_id": 3,
+      "created_by": 2
+    },
+    {
+      "name": "Masker Medis",
+      "description": "Masker medis sekali pakai dengan standar kesehatan",
+      "price": 10000,
+      "quantity": 1000,
+      "category_id": 5,
+      "supplier_id": 4,
+      "created_by": 1
+    },
+    {
+      "name": "Termometer Digital",
+      "description": "Termometer digital untuk mengukur suhu tubuh",
+      "price": 75000,
+      "quantity": 100,
+      "category_id": 5,
+      "supplier_id": 4,
+      "created_by": 2
+    },
+    {
+      "name": "Buku Novel Fiksi",
+      "description": "Buku novel fiksi terlaris tahun ini",
+      "price": 90000,
+      "quantity": 50,
+      "category_id": 6,
+      "supplier_id": 4,
+      "created_by": 1
+    },
+    {
+      "name": "Spidol Permanen",
+      "description": "Spidol permanen dengan tinta hitam dan anti air",
+      "price": 15000,
+      "quantity": 200,
+      "category_id": 6,
+      "supplier_id": 4,
+      "created_by": 2
+    },
+    {
+      "name": "Screwdriver Set",
+      "description": "Set obeng lengkap dengan berbagai ukuran",
+      "price": 50000,
+      "quantity": 40,
+      "category_id": 7,
+      "supplier_id": 1,
+      "created_by": 1
+    },
+    {
+      "name": "Kipas Angin Mini",
+      "description": "Kipas angin mini portabel untuk kebutuhan outdoor",
+      "price": 200000,
+      "quantity": 25,
+      "category_id": 7,
+      "supplier_id": 2,
+      "created_by": 2
+    },
+    {
+      "name": "Sepatu Sneakers Pria",
+      "description": "Sepatu sneakers pria dengan desain modern",
+      "price": 350000,
+      "quantity": 15,
+      "category_id": 8,
+      "supplier_id": 1,
+      "created_by": 1
+    },
+    {
+      "name": "Tenda Camping",
+      "description": "Tenda camping berkualitas dengan kapasitas 4 orang",
+      "price": 700000,
+      "quantity": 10,
+      "category_id": 8,
+      "supplier_id": 3,
+      "created_by": 2
+    },
+    {
+      "name": "Power Bank 10000mAh",
+      "description": "Power bank kapasitas 10000mAh untuk berbagai gadget",
+      "price": 200000,
+      "quantity": 50,
+      "category_id": 9,
+      "supplier_id": 3,
+      "created_by": 1
+    },
+    {
+      "name": "Headphone Wireless",
+      "description": "Headphone wireless dengan kualitas suara jernih",
+      "price": 350000,
+      "quantity": 30,
+      "category_id": 9,
+      "supplier_id": 4,
+      "created_by": 2
+    },
+    {
+      "name": "Lampu LED Taman",
+      "description": "Lampu LED untuk dekorasi taman yang hemat energi",
+      "price": 50000,
+      "quantity": 100,
+      "category_id": 10,
+      "supplier_id": 4,
+      "created_by": 1
+    },
+    {
+      "name": "Vas Bunga Keramik",
+      "description": "Vas bunga keramik dengan desain elegan",
+      "price": 150000,
+      "quantity": 50,
+      "category_id": 10,
+      "supplier_id": 2,
+      "created_by": 2
+    }
+  ]
+  

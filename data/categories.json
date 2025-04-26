@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Elektronik",
+      "description": "Peralatan elektronik rumah tangga",
+      "created_by": 1
+    },
+    {
+      "name": "Alat Tulis",
+      "description": "Perlengkapan kantor dan sekolah",
+      "created_by": 2
+    },
+    {
+      "name": "Pakaian",
+      "description": "Berbagai jenis pakaian untuk pria, wanita, dan anak-anak",
+      "created_by": 1
+    },
+    {
+      "name": "Makanan & Minuman",
+      "description": "Produk makanan dan minuman sehari-hari",
+      "created_by": 2
+    },
+    {
+      "name": "Alat Kesehatan",
+      "description": "Peralatan medis dan kesehatan",
+      "created_by": 1
+    },
+    {
+      "name": "Buku & Alat Tulis",
+      "description": "Buku, alat tulis, dan perlengkapan sekolah lainnya",
+      "created_by": 2
+    },
+    {
+      "name": "Perkakas Rumah Tangga",
+      "description": "Alat-alat dan peralatan untuk rumah tangga",
+      "created_by": 1
+    },
+    {
+      "name": "Olahraga & Outdoor",
+      "description": "Peralatan olahraga dan perlengkapan outdoor",
+      "created_by": 2
+    },
+    {
+      "name": "Gadget & Aksesori",
+      "description": "Gadget terbaru dan aksesoris pendukungnya",
+      "created_by": 1
+    },
+    {
+      "name": "Dekorasi Rumah",
+      "description": "Perlengkapan dekorasi rumah dan taman",
+      "created_by": 2
+    }
+  ]
+  

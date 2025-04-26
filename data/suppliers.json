@@ -1,0 +1,23 @@
+[
+    {
+      "name": "PT Sumber Makmur",
+      "contact_info": "08123456789",
+      "created_by": 1
+    },
+    {
+      "name": "CV Pena Jaya",
+      "contact_info": "08567890123",
+      "created_by": 2
+    },
+    {
+      "name": "PT Jaya Abadi",
+      "contact_info": "08123456789",
+      "created_by": 1
+    },
+    {
+      "name": "PT Sumber Terang",
+      "contact_info": "08123456789",
+      "created_by": 2
+    }
+  ]
+  
