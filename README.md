@@ -1,3 +1,7 @@
+# Nama : Mimo Sukma Aliefasa
+# NIM : A11.2022.14592
+# Kelp : A11.4601
+
 # Proyek Manajemen Stok Barang
 
 ## Deskripsi Proyek
